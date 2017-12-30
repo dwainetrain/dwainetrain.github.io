@@ -3,6 +3,7 @@ published: false
 ---
 ---
 layout: post
+draft: true
 title: "Getting my hands dirty"
 date: 2017-12-30
 categories: jekyll setup
